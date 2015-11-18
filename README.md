@@ -60,7 +60,7 @@ Note that SpiderOak is an all telecommute team of engineers, spread across the U
 
 All Nimbus related source repositories are available below:
 
-- [Lumberyard](github.com/SpiderOak/lumberyard.git) Python Library for Accessing Nimbus.io
+- [Lumberyard](https://github.com/SpiderOak/lumberyard.git) Python Library for Accessing Nimbus.io
 - [ Motoboto](https://github.com/SpiderOak/motoboto.git) Port of the popular "boto" library for accessing S3, ported to use Nimbus.io.  (This is intended to allow projects already using S3 via boto use Nimbus.io with minimal changes.)
 - [Motoboto_benchmark](https://github.com/SpiderOak/motoboto_benchmark.git) Benchmarking and stress testing tools for developing Nimbus.io
 - [Nimbus.io](https://github.com/SpiderOak/nimbus.io.git) The Nimbus.io storage service itself
